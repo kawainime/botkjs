@@ -5,7 +5,7 @@
 ## 🚀 **CARA INSTALL CEPAT (1 COMMAND)**
 # Login ke VPS, lalu jalankan:
 ```
-sudo apt update && sudo apt install -y git && git clone https://github.com/your-repo/kpj-bot.git /var/www/kpj-bot && cd /var/www/kpj-bot && chmod +x install.sh && sudo ./install.sh
+sudo apt update && sudo apt install -y git && git clone https://github.com/kawainime/kpj-bot.git /var/www/kpj-bot && cd /var/www/kpj-bot && chmod +x install.sh && sudo ./install.sh
 ```
 
 ##⚙️** INSTAL MANUAL**
