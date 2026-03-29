@@ -62,9 +62,9 @@ cd /var/www/botkjs
 
 # Step 5: Download files from GitHub
 log "Step 5: Downloading Botkjs files..."
-wget -q https://raw.githubusercontent.com/yourusername/Botkjs/main/index.html -O index.html
-wget -q https://raw.githubusercontent.com/yourusername/Botkjs/main/server.js -O server.js
-wget -q https://raw.githubusercontent.com/yourusername/Botkjs/main/package.json -O package.json
+wget -q https://raw.githubusercontent.com/kawainime/botkjs/main/index.html -O index.html
+wget -q https://raw.githubusercontent.com/kawainime/botkjs/main/server.js -O server.js
+wget -q https://raw.githubusercontent.com/kawainime/botkjs/main/package.json -O package.json
 success "Files downloaded"
 
 # Step 6: Install dependencies
