@@ -13,7 +13,7 @@ fi
 
 # Download and run installer
 echo "📥 Downloading installer..."
-wget -q https://raw.githubusercontent.com/yourusername/Botkjs/main/install.sh -O /tmp/botkjs-install.sh
+wget -q https://raw.githubusercontent.com/kawainime/botkjs/main/install.sh -O /tmp/botkjs-install.sh
 
 echo "🔧 Running installer..."
 chmod +x /tmp/botkjs-install.sh
